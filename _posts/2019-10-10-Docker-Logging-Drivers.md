@@ -62,4 +62,3 @@ docker run --log-driver json-file --log-opt max-size=50m nginx
 
 
 ##### 在这里你可以找到[官方的配置文档](https://docs.docker.com/config/containers/logging/configure/)
-
